@@ -2,7 +2,7 @@
 
 This repository contains a university group project on orbital transfer strategies.
 
-The work analyzes different approaches:
+The work analyses different approaches:
 1.	Standard strategy
 2.	Optimized standard strategy
 3.	Transfer with circularization
